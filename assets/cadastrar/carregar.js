@@ -58,6 +58,7 @@ function criarCard(tarefa) {
 
     document.querySelector("#lista-tarefas").appendChild(card)
 
+    
 }
 
 

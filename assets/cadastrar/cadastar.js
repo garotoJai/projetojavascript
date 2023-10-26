@@ -21,4 +21,6 @@ localStorage.setItem("tarefas",JSON.stringify(tarefas))
 
 window.location.href = "index.html"
 
+calcularEstatistica()
+
 })

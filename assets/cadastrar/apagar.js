@@ -13,4 +13,8 @@ function apagar(id){
       localStorage.setItem("tarefas", JSON.stringify(tarefas_filtradas))
 
        atualizar()
+       
+       calcularEstatistica()
+
+       
 }
